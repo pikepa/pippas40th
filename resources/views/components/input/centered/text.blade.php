@@ -9,6 +9,6 @@
 
 
     <p> If you're interested in surprising her, register your email below,</p>
-    <p> and we'll contact you discretely</p>
-    <p> For further information please register below and we'll keep you updated.</p>
+    <p> and we'll contact you discretely,</p>
+    <p> Or for further information please register below and we'll keep you updated.</p>
 </div>
