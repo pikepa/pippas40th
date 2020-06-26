@@ -11,7 +11,7 @@
         <div class="w-1/2 bg-gray-400 rounded-lg p-2 m-4 bg-opacity-50">
             <x-input.centered.text />
         </div>
-        <div class="w-1/2">
+        <div class="w-1/2 bg-gray-400 rounded-lg p-2 m-4 bg-opacity-50">
             <livewire:register.emailcapture />
         </div>
     </div>

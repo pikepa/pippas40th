@@ -1,6 +1,6 @@
-<div class="mt-8">
+<div>
     <form wire:submit.prevent="register">
-        <label for="email" class="block text-sm font-medium leading-5 text-gray-700">Email
+        <label for="email" class="block text-lg font-medium leading-5 text-gray-700  font-bold ">Email
         </label>
         <div class="mt-1 relative rounded-md shadow-sm">
 
