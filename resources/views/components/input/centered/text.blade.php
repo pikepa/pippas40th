@@ -1,4 +1,4 @@
-<div class="text-center space-y-4 mt-4">
+<div class="text-pink text-center space-y-4 mt-4">
     <p>Pippa's 40th is coming up in 2021, while we can't keep it a secret,</p>
     <p> we can surprise her with unexpected guests.</p>
     <p> Current idea is to have us partying in beautiful </p>
