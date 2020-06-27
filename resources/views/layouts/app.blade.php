@@ -20,10 +20,12 @@
 </head>
 
 <body style="background-image:url('imgs/hamilton.jpg');background-repeat: no-repeat;background-size:100%;" class="bg-gray-100 h-screen antialiased leading-none font-body">
-    <div id="app">
+    <div>
         <x-menus.navweb />
-        <div class="container mx-auto font-sans text-xl text-gray-800">
-            @yield('content')
+        <div >
+            <div class=" font-sans text-xl text-gray-800 ">
+                @yield('content')
+            </div>
         </div>
     </div>
     <livewire:scripts>

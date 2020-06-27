@@ -5,8 +5,6 @@
     <div>
         <H1 class="text-pink text-6xl my-8">Hamilton Island, Qld</H1>
     </div>
-    <p> Our current Party Program is from 25th - 29th May 2021 </p>
-
 
     <p> If you're interested in surprising her, register your email below,</p>
     <p> and we'll contact you discretely,</p>

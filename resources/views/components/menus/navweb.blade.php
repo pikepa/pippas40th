@@ -1,4 +1,4 @@
-<nav class="bg-pink shadow mb-8 py-6 ">
+<nav class="bg-pink shadow  py-6 ">
     <div class=" container mx-auto px-6 md:px-0">
         <div class="flex flex-row items-center justify-between">
             <div class=" mr-6">
