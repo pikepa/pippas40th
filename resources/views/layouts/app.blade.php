@@ -19,7 +19,7 @@
     <livewire:styles>
 </head>
 
-<body style="background-image:url('imgs/hamilton.jpg');background-repeat: no-repeat;background-size:100%;" class="bg-gray-100 h-screen antialiased leading-none font-body">
+<body style="background-image:url('imgs/hamilton.jpg');background-repeat: no-repeat;background-size:cover;" class="bg-gray-100 h-screen antialiased leading-none font-body">
     <div>
         <x-menus.navweb />
         <div >
