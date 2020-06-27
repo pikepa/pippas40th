@@ -22,11 +22,9 @@
 <body style="background-image:url('imgs/hamilton.jpg');background-repeat: no-repeat;background-size:cover;" class="bg-gray-100 h-screen antialiased leading-none font-body">
     <div>
         <x-menus.navweb />
-        <div >
             <div class=" font-sans text-xl text-gray-800 ">
                 @yield('content')
             </div>
-        </div>
     </div>
     <livewire:scripts>
 </body>

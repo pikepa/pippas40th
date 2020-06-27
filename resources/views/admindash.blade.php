@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="flex items-center">
+<div class="container mx-auto flex items-center">
     <div class="w-full">
 
         @if (session('status'))
