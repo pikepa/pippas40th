@@ -4,6 +4,7 @@ namespace App\Http\Livewire\Register;
 
 use App\models\Contact;
 use Livewire\Component;
+use App\Jobs\SendContactEmailJob;
 
 class Emailcapture extends Component
 {
@@ -23,6 +24,9 @@ class Emailcapture extends Component
         Contact::create([
             'email' => $data['email'],
         ]);
+
+        dispatch(new SendContactEmailJob($data));
+        
         return redirect('/');
     }
 }
