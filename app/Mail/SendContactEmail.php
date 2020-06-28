@@ -28,7 +28,7 @@ class SendContactEmail extends Mailable
      */
     public function build()
     {
-        return $this->from('noreply@pippas40th.com', 'Pippas 40th Messaging System')
+        return $this->from('system@pippas40th.com', 'Pippas 40th Messaging System')
         ->subject('Your Email has been received and stored')
         ->markdown('emails.SendContactEmail');
     //    ->with([
