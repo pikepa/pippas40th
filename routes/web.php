@@ -1,5 +1,7 @@
 <?php
 
+use App\Jobs\SendContactEmailJob;
+
 
 Auth::routes();
 
@@ -15,3 +17,4 @@ Route::group(['middleware' => 'auth'], function () {
     Route::livewire('contacts', 'admin.show-contacts')->name('contacts');
     Route::livewire('message', 'messages.display-messages')->name('messages');
 });
+
