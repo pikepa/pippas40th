@@ -2,7 +2,7 @@
     <p class="text-bold">Pippa’s turning 40 and we all know she likes a good party!</p>
     <p> Please join us as we celebrate with our</p>
      <p class="text-pink">Fit, Fast and Fabulous Hostess</p> 
-     <p>on the beautiful</p>
+     <p>on beautiful</p>
     <div>
         <H1 class="text-pink text-6xl my-6">Hamilton Island, Qld</H1>
     </div>
