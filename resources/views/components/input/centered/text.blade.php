@@ -1,5 +1,5 @@
 <div class="font-semibold text-center space-y-4 m-4">
-    <p class="text-bold">Pippa’s turning 40 and we all know she likes a good party</p>
+    <p class="text-bold">Pippa’s turning 40 and we all know she likes a good party!</p>
     <p> Please join us as we celebrate with our</p>
      <p class="text-pink">Fit, Fast and Fabulous Hostess</p> 
      <p>on the beautiful</p>
