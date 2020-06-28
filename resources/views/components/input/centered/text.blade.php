@@ -1,10 +1,10 @@
 <div class="font-semibold text-center space-y-4 m-4">
-    <p>Pippa's 40th is coming up in 2021, while we can't keep it a secret,</p>
-    <p> we can surprise her with unexpected guests.</p>
-    <p> Current idea is to have us partying in beautiful </p>
+    <p class="text-bold">Pippa’s turning 40 and we all know she likes a good party</p>
+    <p> Please join us as we celebrate our Fit, Fast and Fabulous Host on the beautiful</p>
     <div>
         <H1 class="text-pink text-6xl my-8">Hamilton Island, Qld</H1>
     </div>
-
-    <p> For further information please register below and we'll keep you updated.</p>
+    <p>A program of events is currently in the making for the 25th to 29th May so join us for all that you can. Details coming soon…</p>
+    <p class="text-sm font-normal">(We realise this will be subject to international travel restrictions so are pencilling in a second date in late October and will follow up to confirm the date as we approach the new year.)</p>
+    <p>Please register so we can keep you up to date as plans unfold.</p>
 </div>
