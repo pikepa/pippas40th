@@ -1,6 +1,6 @@
 <div class="font-semibold text-center space-y-4 m-4">
     <p class="text-bold">Pippa’s turning 40 and we all know she likes a good party</p>
-    <p> Please join us as we celebrate our <span class="text-pink">Fit, Fast and Fabulous</span> Hostess on the beautiful</p>
+    <p> Please join us as we celebrate with our <span class="text-pink">Fit, Fast and Fabulous</span> Hostess on the beautiful</p>
     <div>
         <H1 class="text-pink text-6xl my-8">Hamilton Island, Qld</H1>
     </div>
