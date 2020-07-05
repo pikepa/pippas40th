@@ -25,6 +25,10 @@ class AuthServiceProvider extends ServiceProvider
     {
         $this->registerPolicies();
 
+        Gate::define('viewMailcoach', function ($user = null) {
+            return optional($user)->admin;
+        });
+
         //
     }
 }
