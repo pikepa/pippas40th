@@ -26,11 +26,13 @@ class Emailcapture extends Component
         //  Contact::create([
         //      'email' => $data['email'],
         //   ]);
-        $emailList = EmailList::first();
+
+        $emailList = EmailList::first();        
         
+    
         Subscriber::createWithEmail($data['email'])->subscribeTo($emailList);
 
-       // dispatch(new SendContactEmailJob($data));
+        // dispatch(new SendContactEmailJob($data));
         
         return redirect('/');
     }

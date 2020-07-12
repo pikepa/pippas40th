@@ -2,9 +2,9 @@
 
 namespace App\Jobs;
 
-use Mail;
 use Illuminate\Bus\Queueable;
 use App\Mail\SendContactEmail;
+use Illuminate\Support\Facades\Mail;
 use Illuminate\Queue\SerializesModels;
 use Illuminate\Queue\InteractsWithQueue;
 use Illuminate\Contracts\Queue\ShouldQueue;
